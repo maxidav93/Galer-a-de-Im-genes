@@ -23,8 +23,5 @@ body {
     color: white;
     text-align: center;
     width: 100%;
-}
-
-.footer-icons {
-    background-color: black;
+    bottom: 0;
 }
