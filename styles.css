@@ -26,3 +26,13 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+
+.footer-info {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+}
+
