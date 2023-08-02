@@ -8,6 +8,10 @@ body {
     height: 400px;
 }
 
+.link-button:hover {
+    box-shadow: -3px -3px 6px #d7ff47d7, 4px 4px 7px #c74540bd;
+}
+
 .link-button {
     text-decoration: none;
     color: black;
